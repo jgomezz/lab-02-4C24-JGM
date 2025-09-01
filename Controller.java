@@ -6,5 +6,11 @@ public class Controller {
 
    }
 
+   
+   public String saludo(){
+
+       return "Hola mundo";
+  
+   }
 
 }
